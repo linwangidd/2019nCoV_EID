@@ -1,6 +1,6 @@
 # Risk for Transportation of 2019 Novel Coronavirus (COVID-19) from Wuhan to Cities in China 
 
-Emerging Infectious Diseases (2020), \url{https://doi.org/10.3201/eid2605.200146}
+Emerging Infectious Diseases (2020), https://doi.org/10.3201/eid2605.200146
 
 Remark:
 
