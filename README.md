@@ -12,11 +12,11 @@ Remark:
 
 (4) Additional code and data requests should be addressed to Lin Wang (lin.wang@pasteur.fr), Xiaoke XU (xuxiaoke@foxmail.com) or Lauren Ancel Meyers (laurenmeyers@austin.utexas.edu)
 
-Please cite the following record if you would like to use the data and code shared here in your study:
+Please cite the following record if you would like to use these data and code:
 
-@misc{Pasteur2020_COVID19,
-author = { Du Z, Wang L, Chauchemez S, Xu X, Wang X, Cowling BJ, Mayers L },
-title  = { Risk for Transportation of 2019 Novel Coronavirus (COVID-19) from Wuhan to Cities in China },
-howpublished = { Emerging Infectious Diseases (2020), \url{https://doi.org/10.3201/eid2605.200146} },
+@misc{Pasteur2020_COVID19,//
+author = { Du Z, Wang L, Chauchemez S, Xu X, Wang X, Cowling BJ, Mayers L },//
+title  = { Risk for Transportation of 2019 Novel Coronavirus (COVID-19) from Wuhan to Cities in China },//
+howpublished = { Emerging Infectious Diseases (2020), \url{https://doi.org/10.3201/eid2605.200146} },//
 year = 2020
 }
